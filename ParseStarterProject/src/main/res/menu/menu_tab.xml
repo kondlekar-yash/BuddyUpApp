@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group>
+        <item
+            android:id="@+id/Profile"
+            android:title="Profile">
+        </item>
+        <item
+            android:id="@+id/Search"
+            android:title="Search">
+        </item>
+        <item
+            android:id="@+id/Chat"
+            android:title="Chat">
+        </item>
+        <item
+        android:id="@+id/Logout"
+        android:title="LogOut"
+            app:showAsAction="always">
+    </item>
+    </group>
+
+</menu>

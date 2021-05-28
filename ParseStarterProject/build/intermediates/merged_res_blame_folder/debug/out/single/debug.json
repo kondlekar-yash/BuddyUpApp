@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_basic.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\font\\basic.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_back1.jpg.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\drawable\\back1.jpg"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_assistant_extralight.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\font\\assistant_extralight.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_menu_tab.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\menu\\menu_tab.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_audiowide.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\font\\audiowide.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_messaging.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\layout\\activity_messaging.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_menu_icon.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\drawable\\menu_icon.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_logo1.png.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\drawable\\logo1.png"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_password.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\layout\\activity_password.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_helpinghand1.jpg.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\drawable\\helpinghand1.jpg"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\font_assistant_light.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\font\\assistant_light.xml"
+    },
+    {
+        "merged": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\Android\\ParseBuddyUp\\ParseStarterProject\\src\\main\\res\\layout\\activity_profile.xml"
+    }
+]

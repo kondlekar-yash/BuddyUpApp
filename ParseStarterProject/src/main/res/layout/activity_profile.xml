@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/profileRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back1"
+    tools:context=".ProfileActivity">
+
+    <TextView
+        android:id="@+id/headerTextViewProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="15dp"
+        android:fontFamily="@font/audiowide"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="30sp" />
+
+    <TextView
+        android:id="@+id/bioTextViewProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/headerTextViewProfile"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/basic"
+        android:text="Bio :"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/bioEditTextProfile"
+        android:layout_width="180dp"
+        android:layout_height="130dp"
+        android:layout_below="@+id/headerTextViewProfile"
+        android:layout_alignParentEnd="true"
+        android:layout_marginHorizontal="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toEndOf="@+id/bioTextViewProfile"
+        android:ems="10"
+        android:fontFamily="@font/assistant_light"
+        android:gravity="start"
+        android:inputType="textPersonName"
+        android:singleLine="false"
+        android:textAlignment="viewStart"
+        android:textColor="@android:color/black"
+        android:textColorHint="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/locationTextViewProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bioEditTextProfile"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/basic"
+        android:text="Current Location :"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/locationEditTextProfile"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bioEditTextProfile"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toEndOf="@+id/locationTextViewProfile"
+        android:ems="10"
+        android:fontFamily="@font/assistant_light"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/linkedInTextViewProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/locationEditTextProfile"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:text="LinkedIn :"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/linkedInEditTextProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/locationEditTextProfile"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toEndOf="@+id/linkedInTextViewProfile"
+        android:ems="10"
+        android:fontFamily="@font/assistant_light"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/updateButtonProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="65dp"
+        android:layout_marginBottom="35dp"
+        android:background="@android:color/black"
+        android:fontFamily="@font/basic"
+        android:onClick="clickUpdate"
+        android:text="Update"
+        android:textColor="@android:color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/courseTextViewProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linkedInEditTextProfile"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/basic"
+        android:text="Course :"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/courseEditTextProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linkedInEditTextProfile"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toEndOf="@+id/courseTextViewProfile"
+        android:ems="10"
+        android:fontFamily="@font/assistant_light"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/unitsTextViewProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/courseEditTextProfile"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/basic"
+        android:text="Units :"
+        android:textColor="@android:color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/unitsEditTextProfile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/courseEditTextProfile"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="15dp"
+        android:layout_toEndOf="@+id/unitsTextViewProfile"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:textColor="@android:color/black" />
+</RelativeLayout>

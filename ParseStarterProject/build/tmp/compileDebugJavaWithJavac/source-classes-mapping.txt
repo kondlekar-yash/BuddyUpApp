@@ -1,0 +1,27 @@
+com/parse/starter/SignUpActivity.java
+ com.parse.starter.SignUpActivity
+ com.parse.starter.SignUpActivity$1
+com/parse/starter/SearchActivity.java
+ com.parse.starter.SearchActivity
+ com.parse.starter.SearchActivity$1
+ com.parse.starter.SearchActivity$2
+com/parse/starter/MainActivity.java
+ com.parse.starter.MainActivity
+com/parse/starter/PasswordActivity.java
+ com.parse.starter.PasswordActivity
+ com.parse.starter.PasswordActivity$1
+com/parse/starter/LoginActivity.java
+ com.parse.starter.LoginActivity
+ com.parse.starter.LoginActivity$1
+com/parse/starter/BuildConfig.java
+ com.parse.starter.BuildConfig
+com/parse/starter/ProfileActivity.java
+ com.parse.starter.ProfileActivity
+ com.parse.starter.ProfileActivity$1
+com/parse/starter/MessagingActivity.java
+ com.parse.starter.MessagingActivity
+ com.parse.starter.MessagingActivity$1
+ com.parse.starter.MessagingActivity$2
+ com.parse.starter.MessagingActivity$3
+com/parse/starter/StarterApplication.java
+ com.parse.starter.StarterApplication
